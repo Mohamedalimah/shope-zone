@@ -1,0 +1,471 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahmed Ali",
+      "email": "ahmed@shopzone.com",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "name": "Sara Hassan",
+      "email": "sara@shopzone.com",
+      "password": "abcdefgh",
+      "role": "admin"
+    },
+    {
+      "name": "mohamed",
+      "email": "mohamedali257869@gmail.com",
+      "password": "11111111",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "name": "mohamed",
+      "email": "mohamedali257869@gmail.com",
+      "password": "12345678",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "name": "mohamed",
+      "email": "mohamedali257869@gmail.com",
+      "password": "12345678",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "name": "mohamed",
+      "email": "mohamed@gmail.com",
+      "password": "147258369",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "name": "mohamed",
+      "email": "mohamed@gmail.com",
+      "password": "147258369",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "name": "ahmed",
+      "email": "ahmed@gmail.com",
+      "password": "147258369",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "name": "mohamed ali ",
+      "email": "mohamedali257869@gmail.com",
+      "password": "147258369",
+      "role": "user",
+      "id": 9
+    },
+    {
+      "name": "ahmed fahem",
+      "email": "ahmed@gmail.com",
+      "password": "147258369",
+      "role": "user",
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Galaxy Pro Laptop",
+      "price": 45000,
+      "category": "Electronics",
+      "stock": 8,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Quantum Earbuds X1",
+      "price": 3500,
+      "category": "Electronics",
+      "stock": 22,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1578319439584-104c94d37305?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Neon Sneakers Ultra",
+      "price": 2800,
+      "category": "Fashion",
+      "stock": 5,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "Cyber Hoodie 3000",
+      "price": 1500,
+      "category": "Fashion",
+      "stock": 15,
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 5,
+      "name": "Holo Desk Lamp",
+      "price": 850,
+      "category": "Home",
+      "stock": 19,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1517685633466-403d6955aeab?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 6,
+      "name": "SmartBot Coffee Maker",
+      "price": 4200,
+      "category": "Home",
+      "stock": 5,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 7,
+      "name": "AeroFlex Yoga Mat",
+      "price": 650,
+      "category": "Sports",
+      "stock": 30,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 8,
+      "name": "Pulse Smart Watch",
+      "price": 7800,
+      "category": "Electronics",
+      "stock": 0,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 9,
+      "name": "TurboGrip Dumbbells",
+      "price": 1200,
+      "category": "Sports",
+      "stock": 18,
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 10,
+      "name": "Quantum Hover Drone",
+      "price": 18500,
+      "category": "Electronics",
+      "stock": 7,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 11,
+      "name": "NeuralLink VR Visor",
+      "price": 12000,
+      "category": "Electronics",
+      "stock": 14,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 12,
+      "name": "CyberKeys Mechanical",
+      "price": 4500,
+      "category": "Electronics",
+      "stock": 22,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 13,
+      "name": "Velocity E-Board",
+      "price": 22000,
+      "category": "Sports",
+      "stock": 4,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1558244402-286dd748c593?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 14,
+      "name": "Echo Core Unit",
+      "price": 2800,
+      "category": "Home",
+      "stock": 35,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1543512214-318c7553f230?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 15,
+      "name": "Vision AR Specs",
+      "price": 9500,
+      "category": "Fashion",
+      "stock": 10,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1572635148818-ef6fd45eb394?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 16,
+      "name": "Anti-Gravity Pack",
+      "price": 3200,
+      "category": "Fashion",
+      "stock": 19,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 17,
+      "name": "ErgoSpine Pro Chair",
+      "price": 14500,
+      "category": "Home",
+      "stock": 6,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=600&h=400&fit=crop"
+    },
+    {
+      "id": 18,
+      "name": "Stealth Grip Mouse",
+      "price": 1800,
+      "category": "Electronics",
+      "stock": 25,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&h=400&fit=crop"
+    }
+  ],
+  "cart": [
+    {
+      "userId": 9,
+      "productId": 1,
+      "quantity": 1,
+      "name": "Galaxy Pro Laptop",
+      "price": 45000,
+      "id": 1
+    },
+    {
+      "userId": 9,
+      "productId": 3,
+      "quantity": 1,
+      "name": "Neon Sneakers Ultra",
+      "price": 2800,
+      "id": 2
+    },
+    {
+      "userId": 9,
+      "productId": 2,
+      "quantity": 1,
+      "name": "Quantum Earbuds X1",
+      "price": 3500,
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "userId": 9,
+      "total": 45000,
+      "status": "pending",
+      "date": "2026-04-20T20:35:02.012Z",
+      "items": [
+        {
+          "productId": 1,
+          "name": "Galaxy Pro Laptop",
+          "quantity": 1,
+          "price": 45000
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": 9,
+      "total": 549300,
+      "status": "pending",
+      "date": "2026-04-20T20:36:16.724Z",
+      "items": [
+        {
+          "productId": 2,
+          "name": "Quantum Earbuds X1",
+          "quantity": 1,
+          "price": 3500
+        },
+        {
+          "productId": 3,
+          "name": "Neon Sneakers Ultra",
+          "quantity": 1,
+          "price": 2800
+        },
+        {
+          "productId": 4,
+          "name": "Cyber Hoodie 3000",
+          "quantity": 2,
+          "price": 1500
+        },
+        {
+          "productId": 1,
+          "name": "Galaxy Pro Laptop",
+          "quantity": 12,
+          "price": 45000
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": 9,
+      "total": 540000,
+      "status": "pending",
+      "date": "2026-04-20T20:36:30.099Z",
+      "items": [
+        {
+          "productId": 1,
+          "name": "Galaxy Pro Laptop",
+          "quantity": 12,
+          "price": 45000
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": 9,
+      "total": 90000,
+      "status": "pending",
+      "date": "2026-04-20T21:40:06.318Z",
+      "paymentMethod": "cash",
+      "items": [
+        {
+          "productId": 1,
+          "name": "Galaxy Pro Laptop",
+          "quantity": 2,
+          "price": 45000
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userId": 9,
+      "total": 90000,
+      "status": "pending",
+      "date": "2026-04-20T21:40:45.214Z",
+      "paymentMethod": "cash",
+      "items": [
+        {
+          "productId": 1,
+          "name": "Galaxy Pro Laptop",
+          "quantity": 2,
+          "price": 45000
+        }
+      ],
+      "id": 5
+    },
+    {
+      "userId": 9,
+      "total": 5600,
+      "status": "pending",
+      "date": "2026-04-20T21:41:11.358Z",
+      "paymentMethod": "cash",
+      "items": [
+        {
+          "productId": 3,
+          "name": "Neon Sneakers Ultra",
+          "quantity": 2,
+          "price": 2800
+        }
+      ],
+      "id": 6
+    },
+    {
+      "userId": 9,
+      "total": 2800,
+      "status": "pending",
+      "date": "2026-04-20T21:41:28.733Z",
+      "paymentMethod": "cash",
+      "items": [
+        {
+          "productId": 3,
+          "name": "Neon Sneakers Ultra",
+          "quantity": 1,
+          "price": 2800
+        }
+      ],
+      "id": 7
+    },
+    {
+      "userId": 9,
+      "total": 3500,
+      "status": "pending",
+      "date": "2026-04-20T21:43:51.543Z",
+      "paymentMethod": "cash",
+      "items": [
+        {
+          "productId": 2,
+          "name": "Quantum Earbuds X1",
+          "quantity": 1,
+          "price": 3500
+        }
+      ],
+      "id": 8
+    },
+    {
+      "userId": 9,
+      "total": 3500,
+      "status": "pending",
+      "date": "2026-04-20T21:45:11.134Z",
+      "paymentMethod": "instapay",
+      "items": [
+        {
+          "productId": 2,
+          "name": "Quantum Earbuds X1",
+          "quantity": 1,
+          "price": 3500
+        }
+      ],
+      "id": 9
+    },
+    {
+      "userId": 9,
+      "total": 850,
+      "status": "pending",
+      "date": "2026-04-20T21:53:12.248Z",
+      "paymentMethod": "cash",
+      "delivery": {
+        "fullName": "Mohamed Ali Mahmoud Ali",
+        "phone": "01019121286",
+        "address": "garden city",
+        "city": "Ismailia",
+        "notes": ""
+      },
+      "items": [
+        {
+          "productId": 5,
+          "name": "Holo Desk Lamp",
+          "quantity": 1,
+          "price": 850
+        }
+      ],
+      "id": 10
+    },
+    {
+      "userId": 8,
+      "total": 3500,
+      "status": "pending",
+      "date": "2026-04-21T05:59:03.078Z",
+      "paymentMethod": "cash",
+      "delivery": {
+        "fullName": "Mohamed Ali Mahmoud Ali",
+        "phone": "01019121286",
+        "address": "garden city",
+        "city": "Ismailia",
+        "notes": ""
+      },
+      "items": [
+        {
+          "productId": 2,
+          "name": "Quantum Earbuds X1",
+          "quantity": 1,
+          "price": 3500
+        }
+      ],
+      "id": 11
+    }
+  ]
+}
